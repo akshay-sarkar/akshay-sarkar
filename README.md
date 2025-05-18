@@ -17,4 +17,15 @@ Here are some ideas to get you started:
 -->
 
 
-With 9 years of experience in the digital realm, I've had my hands in web, cloud, and full-stack technologies :computer: . JavaScript is my jam, and I'm always exploring how tools like Augment and Continue.dev can boost my workflow. This is where I experiment, build cool stuff, and explore the vast world of tech, enhanced by AI.
+With 9 years of experience in the digital realm, I've had my hands in web, cloud, and full-stack technologies :computer: 
+JavaScript is my jam, and I'm always exploring how AI tools like Augment and Continue.dev can boost my workflow :muscle:. 
+This is where I experiment, build cool stuff, and explore the vast world of tech, enhanced by AI.
+
+### Programming languages I use ...
+
+<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> 
+<img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" /> 
+<img alt="Sass" title="TypeScript" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" />
+<img alt="Sass" title="PHP" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" />
+
+
