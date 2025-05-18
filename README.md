@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I'm a Builder of Things (with a little help from AI)!
 ![](https://komarev.com/ghpvc/?username=akshay-sarkar&color=blue&style=for-the-badge)
 
 <!--
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+With 9 years of experience in the digital realm, I've had my hands in web, cloud, and full-stack technologies :computer: . JavaScript is my jam, and I'm always exploring how tools like Augment and Continue.dev can boost my workflow. This is where I experiment, build cool stuff, and explore the vast world of tech, enhanced by AI.
