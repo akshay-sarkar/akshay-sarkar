@@ -23,9 +23,6 @@ This is where I experiment, build cool stuff, and explore the vast world of tech
 
 ### Programming languages I use ...
 
-<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> 
-<img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" /> 
-<img alt="Sass" title="TypeScript" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" />
-<img alt="Sass" title="PHP" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" />
+<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> <img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" /> <img alt="TS" title="TypeScript" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" /><img alt="PHP" title="PHP" height="33" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" />
 
 
