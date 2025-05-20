@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm a Builder of Things (with a little help from AI)!
-
+![](https://komarev.com/ghpvc/?username=akshay-sarkar&color=blue&style=for-the-badge)
 <!--
 **akshay-sarkar/akshay-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
