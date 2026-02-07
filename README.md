@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-With 10 years of experience in the digital realm, I've had my hands in web, cloud, and full-stack technologies :computer: 
-JavaScript is my jam, and I'm always exploring how AI tools like Augment and Continue.dev can boost my workflow :muscle:. 
+With 12 years of experience in the digital realm, I've had my hands in web, cloud, and full-stack technologies :computer: 
+JavaScript is my jam, and I'm always exploring how AI tools like Claude and Antigravity can boost my workflow :muscle:. 
 This is where I experiment, build cool stuff, and explore the vast world of tech, enhanced by AI.
 
 
