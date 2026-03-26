@@ -24,6 +24,7 @@ This is where I experiment, build cool stuff, and explore the vast world of tech
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaysarkaruta) 
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://my-website-chi-lac.vercel.app)
 
 
 ### Programming languages I use ...
